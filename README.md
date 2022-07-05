@@ -8,15 +8,14 @@ You can ask the app to make all your difficult decisions
 Ссылка на курс https://www.udemy.com/course/ios-13-app-development-bootcamp/
 
 Самостоятельная работа на остнове урока https://github.com/yaroslav0905/random_dice
-+ добавлдение элементов с library
-+ созадание объектов в коде из обектов в дизайне
++ добавление элементов с library
++ создание объектов в коде из объектов в дизайне
 + работа с переменными let var
 + работа с Array
-+ обращение к свойствам обекта
++ обращение к свойствам объекта
 + randomElement()
 
-
-# Описание пректа 
+# Описание проекта 
 
 
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
